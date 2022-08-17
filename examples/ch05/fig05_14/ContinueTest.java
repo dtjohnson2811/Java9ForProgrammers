@@ -11,10 +11,5 @@ public class ContinueTest {
       }
 
       System.out.printf("%nUsed continue to skip printing 5%n");
-<<<<<<< HEAD
    }
 }
-=======
-   } 
-} 
->>>>>>> 36636837d703e30b7aaa1905c1c7d6853866df1e
