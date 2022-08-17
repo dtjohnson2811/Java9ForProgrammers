@@ -1,0 +1,12 @@
+Each public class declaration must be stored in a file having the same name as the class and ending with the .java filename extension;
+otherwise, a compliatin error will occur.
+
+You should put the class instance variable at the start of the class's body in order to know what they all are and the types. IF you scatter
+them you will make the code harder to read.
+
+Most instance-variable declarations are preceded with the keyword private. This is an ACCESS MODIFIER. What this means is that variables
+or methods declared with private are accessible only to methods of the class in which they're declared.
+
+A class that contains a main method begins the execution of a Java app. The class that contains this main method is called the DRIVER CLASS.
+
+In a sentinel-controlled loop, prompts should remind the suer of the sentinel.
